@@ -2,6 +2,6 @@
 
 int main() {
     printf("Hello, World!\n");
-    printf("Imię i nazwisko: Jan Kowalski\n");
+    printf("Artur Maiboroda");
     return 0;
 }
